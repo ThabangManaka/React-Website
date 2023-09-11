@@ -138,7 +138,7 @@ If you have any feedback, please reach out to us at fake@fake.com
 Install my-project with npm
 
 ```bash
-  npm install https://github.com/ThabangManaka/React-Website.git
+ git clone https://github.com/ThabangManaka/React-Website.git
   cd my-project
 ```
 
