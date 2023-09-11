@@ -25,3 +25,49 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.custom-img{
+ background-image: url('../public/imgs/a699946a99481a2e13a2b236b4db254e.png')
+}
+.bg-primary-active {
+  background-color: #D100C9;
+}
+.icon1-img{
+  background-image: url('../public/imgs/Web\ Dev\ Icon.svg')
+ }
+ .bg{
+  background-color: #430964;
+  color: #fff
+ }
+.bgsponsor{
+  background-color: #fff;
+}
+.bgNav{
+  background-color:  #70259B;
+  color: #fff
+}
+.btnWhite {
+  background-color:   #fff;
+  color: #70259B;
+}
+.btnPurple {
+  background-color:  #70259B;
+  color: #fff
+}
+.caseContainer {
+  display: flex;
+  flex-direction: row;
+}
+.text{
+  position: 'absolute';
+ color: #fff;
+/* margin-top: -90px; */
+}
+
+.casePadding {
+  margin-bottom : 20px
+}
+.bg-image-wrapper {
+
+  
+  
+}
